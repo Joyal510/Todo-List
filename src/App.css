@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.list li {
+  list-style: none;
+}
+
+.btn {
+  font-size: 30px;
+  width: 10vh;
+}
+#item {
+  font-size: 15px;
+  height: 30px;
+  width: 40vh;
+}
+
+.btn-delete {
+  position: relative;
+  font-size: 30px;
+  width: 15vh;
+  right: -10px;
+}
+
+.list {
+  padding: 5px
+}
+
+
+
